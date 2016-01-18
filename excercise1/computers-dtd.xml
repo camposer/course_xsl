@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE computers [
+	<!ELEMENT computers (computer*)>
+	<!ELEMENT computer (name, serial, person?)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT serial (#PCDATA)>
+	<!ELEMENT person (firstname, lastname, birthData, height)>
+	<!ELEMENT firstname (#PCDATA)>
+	<!ELEMENT lastname (#PCDATA)>
+	<!ELEMENT birthDate (#PCDATA)>
+	<!ELEMENT height (#PCDATA)>
+	<!ATTLIST computer id NMTOKEN #REQUIRED>	
+	<!ATTLIST person id NMTOKEN #REQUIRED>	
+]>
+<computers>
+	<computer id="1">
+		<name>uno</name>
+		<serial>123</serial>
+		<person id="1">
+			<firstname>Juan</firstname>
+			<lastname>Pérez</lastname>
+			<birthDate>1980-01-03</birthDate>
+			<height>180</height>		
+		</person>
+	</computer>
+	<computer id="2">
+		<name>dos</name>
+		<serial>456</serial>
+		<person id="2">
+			<firstname>María</firstname>
+			<lastname>González</lastname>
+			<birthDate>1970-04-20</birthDate>
+			<height>160</height>
+		</person>
+	</computer>
+	<computer id="3">
+		<name>tres</name>
+		<serial>789</serial>
+		<person id="3">
+			<firstname>Pedro</firstname>
+			<lastname>García</lastname>
+			<birthDate>1971-05-18</birthDate>
+			<height>170</height>
+		</person>
+	</computer>
+	<computer id="4">
+		<name>cuatro</name>
+		<serial>012</serial>
+		<person id="1">
+			<firstname>Juan</firstname>
+			<lastname>Pérez</lastname>
+			<birthDate>1980-01-03</birthDate>
+			<height>180</height>		
+		</person>
+	</computer>
+</computers>
