@@ -25,3 +25,8 @@
 
 - XML Tutorial
 	- http://www.w3schools.com/xml/
+- Validator XML (DTD) - w3c
+	- http://validator.w3.org/check
+
+- Validator XML (XSD) 
+	- http://www.utilities-online.info/xsdvalidation/
