@@ -30,7 +30,6 @@
 - XSD Tutorial
 	- http://www.w3schools.com/xml/schema_intro.asp
 - Validator XML (DTD) - w3c
-	- http://validator.w3.org/check
-
+	- http://validator.w3.org/
 - Validator XML (XSD) 
 	- http://www.utilities-online.info/xsdvalidation/

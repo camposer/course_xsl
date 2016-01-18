@@ -4,7 +4,7 @@
 	<!ELEMENT computer (name, serial, person?)>
 	<!ELEMENT name (#PCDATA)>
 	<!ELEMENT serial (#PCDATA)>
-	<!ELEMENT person (firstname, lastname, birthData, height)>
+	<!ELEMENT person (firstname, lastname, birthDate, height)>
 	<!ELEMENT firstname (#PCDATA)>
 	<!ELEMENT lastname (#PCDATA)>
 	<!ELEMENT birthDate (#PCDATA)>
