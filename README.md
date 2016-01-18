@@ -25,6 +25,10 @@
 
 - XML Tutorial
 	- http://www.w3schools.com/xml/
+- DTD Tutorial
+	- http://www.w3schools.com/xml/xml_dtd_intro.asp
+- XSD Tutorial
+	- http://www.w3schools.com/xml/schema_intro.asp
 - Validator XML (DTD) - w3c
 	- http://validator.w3.org/check
 
