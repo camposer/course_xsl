@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XPathTests>
+   <XPathTest>Bill</XPathTest>
+   <XPathTest>4933</XPathTest>
+   <XPathTest>Webucator, Inc.,4933 Jamesville Rd.,Jamesville,NY,13078,USA</XPathTest>
+   <XPathTest>If you have any questions, feel free to call me at 800-555-1000 x123 or e-mail me at bsmith@webucator.com.</XPathTest>
+   <XPathTest>5</XPathTest>
+   <XPathTest>3</XPathTest>
+   <XPathTest>Joshua Bill</XPathTest>
+</XPathTests>
