@@ -4,21 +4,24 @@
 
 	<xsl:output method="xml" indent="yes" version="1.0"  media-type="application/xml" standalone="no" omit-xml-declaration="no"/>
 
+	<xsl:template match="computers">
+		<pcs>
+			<xsl:for-each select="computer">
+				<pc id="{@id}">
+					<xsl:attribute name="type">
+						<xsl:value-of select="attribute::type"/>
+					</xsl:attribute>
 
-	<xsl:template match="computer">
-		<pc id="{@id}">
-			<xsl:attribute name="type">
-				<xsl:value-of select="attribute::type"/>
-			</xsl:attribute>
+					<xsl:element name="nom">		
+						<xsl:value-of  select="./name"/>
+					</xsl:element>
 
-			<xsl:element name="nom">		
-				<xsl:value-of  select="./name"/>
-			</xsl:element>
-
-			<serial>		
-				<xsl:value-of  select="./serial"/>
-			</serial>
-		</pc>
+					<serial>		
+						<xsl:value-of  select="./serial"/>
+					</serial>
+				</pc>
+			</xsl:for-each>
+		</pcs>
 	</xsl:template>
 
 </xsl:stylesheet>
