@@ -10,11 +10,11 @@
 		<XPathTest><xsl:value-of select="substring-before(//Person/Address/Street, ' ')"/></XPathTest>
 
 		<!--Output the address of Webucator Inc, with each part of the address separated by a comma-->
-		<XPathTest><xsl:value-of select="string-join(//Person/Address/*, ',')"/></XPathTest>
+		<XPathTest><xsl:value-of select="string-join(//Person/Address[Company='Webucator, Inc.']/*, ',')"/></XPathTest>
 
 		<!--Output the paragraph text of the paragraph that contains Bill Smith's email address-->
 		<XPathTest>
-			<xsl:value-of select="//Para[Email='bsmith@webucator.com']"/>
+			<xsl:value-of select="//Para/Email[.='bsmith@webucator.com']/.."/>
 		</XPathTest>
 
 		<!--Output the number of elements contained in Joshua Lockwood's Address-->
