@@ -4,7 +4,7 @@
 	<xsl:template match="/">
 	<XPathTests>
 		<!--Output the value of the FirstName child of the first Name element that doesn't have a Title attribute-->
-		<XPathTest><xsl:value-of select="(//Name[not(@Title)])[1]/FirstName"/></XPathTest>
+		<XPathTest><xsl:value-of select="(/descendant-or-self::node()/Name[not(@Title)])[1]/FirstName"/></XPathTest>
 			
 		<!--Output the street number of Webucator Inc's street address (i.e, 4933)-->
 		<XPathTest><xsl:value-of select="substring-before(//Person/Address/Street, ' ')"/></XPathTest>
@@ -24,7 +24,7 @@
 
 		<!--Output the number of elements the contain the word "Lockwood" (should be 3)-->
 		<XPathTest>
-			<xsl:value-of select="count(//*/text()[contains(.,'Lockwood')])"/>
+			<xsl:value-of select="count(//text()[contains(.,'Lockwood')])"/>
 		</XPathTest>
 
 		<!--Output the distinct values of the FirstName elements in the letter-->
