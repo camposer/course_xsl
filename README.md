@@ -35,3 +35,8 @@
 	- http://www.utilities-online.info/xsdvalidation/
 - Online XSLT
 	- http://xslt.online-toolz.com/tools/xslt-transformation.php
+- How can I make XSLT work in chrome?
+	- http://stackoverflow.com/questions/2981524/how-can-i-make-xslt-work-in-chrome
+	- http://stackoverflow.com/questions/18586921/how-to-launch-html-using-chrome-at-allow-file-access-from-files-mode/18587027#18587027
+- SAXON: The XSLT and XQuery Processor
+	- http://saxon.sourceforge.net/
