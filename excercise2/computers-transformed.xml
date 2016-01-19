@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+	<pc id="1" type="laptop">
+<nom>uno</nom>
+<serial>123</serial>
+</pc>
+	<pc id="2" type="workstation">
+<nom>dos</nom>
+<serial>456</serial>
+</pc>
+	<pc id="3" type="laptop">
+<nom>tres</nom>
+<serial>789</serial>
+</pc>
+	<pc id="4" type="">
+<nom>cuatro</nom>
+<serial>012</serial>
+</pc>

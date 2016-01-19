@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computers>
+	<computer id="1" type="laptop">
+		<name>uno</name>
+		<serial>123</serial>
+		<person id="1">
+			<firstname>Juan</firstname>
+			<lastname>Pérez</lastname>
+			<birthDate>1980-01-03</birthDate>
+			<height>180</height>		
+		</person>
+	</computer>
+	<computer id="2" type="workstation">
+		<name>dos</name>
+		<serial>456</serial>
+		<person id="2">
+			<firstname>María</firstname>
+			<lastname>González</lastname>
+			<birthDate>1970-04-20</birthDate>
+			<height>160</height>
+		</person>
+	</computer>
+	<computer id="3" type="laptop">
+		<name>tres</name>
+		<serial>789</serial>
+		<person id="3">
+			<firstname>Pedro</firstname>
+			<lastname>García</lastname>
+			<birthDate>1971-05-18</birthDate>
+			<height>170</height>
+		</person>
+	</computer>
+	<computer id="4">
+		<name>cuatro</name>
+		<serial>012</serial>
+		<person id="1">
+			<firstname>Juan</firstname>
+			<lastname>Pérez</lastname>
+			<birthDate>1980-01-03</birthDate>
+			<height>180</height>		
+		</person>
+	</computer>
+</computers>
