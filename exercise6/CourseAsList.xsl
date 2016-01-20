@@ -4,18 +4,20 @@
 <xsl:include href="HTML.xsl"/>
 <xsl:output method="html" indent="yes"/>
 <xsl:template match="/">
-	<xsl:call-template name="StartHTML">
-		<xsl:with-param  name="Title" select="course/head/title"/>
-	</xsl:call-template>
+	<xsl:result-document href="{course/head/title}.xml">
+		<xsl:call-template name="StartHTML">
+			<xsl:with-param  name="Title" select="course/head/title"/>
+		</xsl:call-template>
+	</xsl:result-document>
 </xsl:template>
 
 <xsl:template match="course">
-	<div id="courseNum"><xsl:value-of select="/course/head/course_num"/></div>
-	<div id="courseLength">
-		<xsl:value-of select="/course/head/course_length"/>
-	</div>
-	<xsl:apply-templates select="/course/body/prerequisites"/>
-	<xsl:apply-templates select="/course/body/outline"/>
+		<div id="courseNum"><xsl:value-of select="/course/head/course_num"/></div>
+		<div id="courseLength">
+			<xsl:value-of select="/course/head/course_length"/>
+		</div>
+		<xsl:apply-templates select="/course/body/prerequisites"/>
+		<xsl:apply-templates select="/course/body/outline"/>
 </xsl:template>
 
 <xsl:template match="prerequisites">

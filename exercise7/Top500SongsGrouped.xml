@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="GroupSongs.xsl"?>
+
+<Songs Source="http://classicrock.about.com/library/misc/ptop500.htm">
+
+	<Song Artist="Led Zeppelin">Stairway To Heaven</Song>
+
+	<Song Artist="Rolling Stones">Satisfaction</Song>
+
+	<Song Artist="Derek And The Dominoes">Layla</Song>
+
+	<Song Artist="Beatles">A Day In The Life</Song>
+
+	<Song Artist="Who">Won't Get Fooled Again</Song>
+
+	<Song Artist="Doors">Light My Fire</Song>
+
+	<Song Artist="Pink Floyd">Comfortably Numb</Song>
+
+	<Song Artist="Eagles">Hotel California</Song>
+
+	<Song Artist="Bruce Springsteen">Born To Run</Song>
+
+	<Song Artist="John Lennon">Imagine</Song>
+
+	<Song Artist="Led Zeppelin">Rock And Roll</Song>
+
+	<Song Artist="Who">Baba O'Riley</Song>
+
+	<Song Artist="Rolling Stones">It's Only Rock 'N Roll</Song>
+
+	<Song Artist="Cream">White Room</Song>
+
+	<Song Artist="Beatles">Yesterday</Song>
+
+	<Song Artist="Jimi Hendrix">Purple Haze</Song>
+
+	<Song Artist="Queen">Bohemian Rhapsody</Song>
+
+	<Song Artist="Grateful Dead">Truckin'</Song>
+
+	<Song Artist="Pink Floyd">Money</Song>
+
+	<Song Artist="Bob Dylan">Like A Rolling Stone</Song>
+
+	<Song Artist="Moody Blues">Nights In White Satin</Song>
+
+	<Song Artist="Led Zeppelin">Kashmir</Song>
+
+	<Song Artist="Who">Behind Blue Eyes</Song>
+
+	<Song Artist="Yes">Roundabout</Song>
+
+	<Song Artist="Doors">Roadhouse Blues</Song>
+
+	<Song Artist="Jefferson Airplane">White Rabbit</Song>
+
+	<Song Artist="Beatles">Hey Jude</Song>
+
+	<Song Artist="Jethro Tull">Aqualung</Song>
+
+	<Song Artist="Aerosmith">Dream On</Song>
+
+	<Song Artist="Rolling Stones">Jumping Jack Flash</Song>
+
+	<Song Artist="Led Zeppelin">Whole Lotta Love</Song>
+
+	<Song Artist="Lynyrd Skynyrd">Freebird</Song>
+
+	<Song Artist="Pink Floyd">Wish You Were Here</Song>
+
+	<Song Artist="Kinks">You Really Got Me</Song>
+
+	<Song Artist="Kansas">Carry On My Wayward Son</Song>
+
+	<Song Artist="Grateful Dead">Casey Jones</Song>
+
+	<Song Artist="Free">All Right Now</Song>
+
+	<Song Artist="Boston">More Than A Feeling</Song>
+
+	<Song Artist="Beatles">Let It Be</Song>
+
+	<Song Artist="Eric Clapton">Cocaine</Song>
+
+	<Song Artist="Led Zeppelin">Black Dog</Song>
+
+	<Song Artist="Doors">L.A. Woman</Song>
+
+	<Song Artist="Who">My Generation</Song>
+
+	<Song Artist="Rolling Stones">Brown Sugar</Song>
+
+	<Song Artist="Cream">Sunshine Of Your Love</Song>
+
+	<Song Artist="Deep Purple">Smoke On The Water</Song>
+
+	<Song Artist="Jimi Hendrix">Hey Joe</Song>
+
+	<Song Artist="John Lennon">Instant Karma</Song>
+
+	<Song Artist="Animals">House Of The Rising Sun</Song>
+
+	<Song Artist="Steppenwolf">Born To Be Wild</Song>
+
+	<Song Artist="Elton John">Goodbye Yellow Brick Road</Song>
+
+	<Song Artist="Beatles">While My Guitar Gently Weeps</Song>
+
+	<Song Artist="Doors">Touch Me</Song>
+
+	<Song Artist="Rolling Stones">Sympathy For The Devil</Song>
+
+	<Song Artist="Pink Floyd">Another Brick In The Wall (Pt. 2)</Song>
+
+	<Song Artist="Led Zeppelin">Communication Breakdown</Song>
+
+	<Song Artist="Jimi Hendrix">Foxy Lady</Song>
+
+	<Song Artist="Aerosmith">Walk This Way</Song>
+
+	<Song Artist="Who">Pinball Wizard</Song>
+
+	<Song Artist="Paul McCartney">Maybe I'm Amazed</Song>
+
+	<Song Artist="Police">Every Breath You Take</Song>
+
+	<Song Artist="Elton John">Bennie And The Jets</Song>
+
+	<Song Artist="Fleetwood Mac">Rhiannon</Song>
+
+	<Song Artist="David Bowie">Changes</Song>
+
+	<Song Artist="Bob Dylan">Lay Lady Lay</Song>
+
+	<Song Artist="Bruce Springsteen">Dancing In The Dark</Song>
+
+	<Song Artist="Van Morrison">Brown Eyed Girl</Song>
+
+	<Song Artist="Jimi Hendrix">Fire</Song>
+
+	<Song Artist="Rod Stewart">Maggie May</Song>
+
+	<Song Artist="Doors">Break On Through</Song>
+
+	<Song Artist="Don McLean">American Pie</Song>
+
+	<Song Artist="Led Zeppelin">Thank You</Song>
+
+	<Song Artist="Pink Floyd">Hey You</Song>
+
+	<Song Artist="Jefferson Airplane">Somebody To Love</Song>
+
+	<Song Artist="Beatles">Something</Song>
+
+	<Song Artist="Allman Brothers">Ramblin' Man</Song>
+
+	<Song Artist="Tom Petty">Running Down A Dream</Song>
+
+	<Song Artist="Jimi Hendrix">All Along The Watchtower</Song>
+
+	<Song Artist="Crosby, Stills, Nash">Woodstock</Song>
+
+	<Song Artist="Grand Funk">We're An American Band</Song>
+
+	<Song Artist="Kinks">Lola</Song>
+
+	<Song Artist="Manfred Mann">Blinded By The Light</Song>
+
+	<Song Artist="Rolling Stones">Gimme Shelter</Song>
+
+	<Song Artist="Fleetwood Mac">Go Your Own Way</Song>
+
+	<Song Artist="Beatles">Sgt. Pepper/With A Little Help From My Friends</Song>
+
+	<Song Artist="ELP">Lucky Man</Song>
+
+	<Song Artist="Eric Clapton">Wonderful Tonight</Song>
+
+	<Song Artist="Procol Harum">Whiter Shade Of Pale</Song>
+
+	<Song Artist="Eagles">Heartache Tonight</Song>
+
+	<Song Artist="Grateful Dead">Touch Of Grey</Song>
+
+	<Song Artist="Beatles">All You Need Is Love</Song>
+
+	<Song Artist="Queen">We Will Rock You/Champions</Song>
+
+	<Song Artist="David Bowie">Suffragette City</Song>
+
+	<Song Artist="Pink Floyd">Brain Damage/Eclipse</Song>
+
+	<Song Artist="Joe Walsh">Rocky Mountain Way</Song>
+
+	<Song Artist="CCR">Fortunate Son</Song>
+
+	<Song Artist="Who">Who Are You</Song>
+
+	<Song Artist="Janis Joplin">Me And Bobby McGee</Song>
+
+	<Song Artist="Beatles">Long and Winding Road</Song>
+
+	<Song Artist="ELO">Don't Bring Me Down</Song>
+
+	<Song Artist="Elton John">Daniel</Song>
+
+	<Song Artist="Beatles">Revolution</Song>
+
+	<Song Artist="Yardbirds">For Your Love</Song>
+
+	<Song Artist="BTO">You Ain't Seen Nothin' Yet</Song>
+
+	<Song Artist="Paul McCartney">Band On The Run</Song>
+
+	<Song Artist="Van Morrison">Moondance</Song>
+
+	<Song Artist="Blue Oyster Cult">Don't Fear The Reaper</Song>
+
+	<Song Artist="Rolling Stones">Ruby Tuesday</Song>
+
+	<Song Artist="Doobie Brothers">China Grove</Song>
+
+	<Song Artist="ELP">Karn Evil 9</Song>
+
+	<Song Artist="Who">Squeeze Box</Song>
+
+	<Song Artist="Allman Brothers Band">Jessica</Song>
+
+	<Song Artist="Zombies">Time Of The Season</Song>
+
+	<Song Artist="Pink Floyd">Welcome To The Machine</Song>
+
+	<Song Artist="Beatles">Come Together</Song>
+
+	<Song Artist="Led Zeppelin">Going To California</Song>
+
+	<Song Artist="Doors">Hello I Love You</Song>
+
+	<Song Artist="Guess Who">American Woman</Song>
+
+	<Song Artist="Aerosmith">Sweet Emotion</Song>
+
+	<Song Artist="Crosby, Stills, Nash">Ohio</Song>
+
+	<Song Artist="Iron Butterfly">In A Gadda Da Vida</Song>
+
+	<Song Artist="Beatles">Eleanor Rigby</Song>
+
+	<Song Artist="Neil Young">Old Man</Song>
+
+	<Song Artist="Supertramp">Logical Song</Song>
+
+	<Song Artist="Joe Walsh">Life's Been Good</Song>
+
+	<Song Artist="Fleetwood Mac">Don't Stop</Song>
+
+	<Song Artist="ELO">Telephone Line</Song>
+
+	<Song Artist="Cream">Crossroads</Song>
+
+	<Song Artist="Beatles">Day Tripper</Song>
+
+	<Song Artist="ZZ Top">Legs</Song>
+
+	<Song Artist="Bad Company">Rock 'n' Roll Fantasy</Song>
+
+	<Song Artist="Rolling Stones">Honky Tonk Woman</Song>
+
+	<Song Artist="Traffic">Low Spark Of High Heeled Boys</Song>
+
+	<Song Artist="Beatles">Help!</Song>
+
+	<Song Artist="Elton John">Crocodile Rock</Song>
+
+	<Song Artist="Eric Clapton">Let It Rain</Song>
+
+	<Song Artist="George Harrison">What Is Life</Song>
+
+	<Song Artist="CCR">Down On The Corner</Song>
+
+	<Song Artist="Foreigner">Feels Like The First Time</Song>
+
+	<Song Artist="David Bowie">Ziggy Stardust</Song>
+
+	<Song Artist="Genesis">Home By The Sea</Song>
+
+	<Song Artist="Eagles">Life In The Fast Lane</Song>
+
+	<Song Artist="Black Sabbath">Paranoid</Song>
+
+	<Song Artist="Styx">Come Sail Away</Song>
+
+	<Song Artist="Byrds">Turn, Turn, Turn</Song>
+
+	<Song Artist="Bruce Springsteen">Glory Days</Song>
+
+	<Song Artist="Edgar Winter Band">Free Ride</Song>
+
+	<Song Artist="George Harrison">When We Was Fab</Song>
+
+	<Song Artist="Head East">Never Been Any Reason</Song>
+
+	<Song Artist="Van Morrison">Domino</Song>
+
+	<Song Artist="Crosby Stills Nash">Suite: Judy Blue Eyes</Song>
+
+	<Song Artist="Queen">Crazy Little Thing Called Love</Song>
+
+	<Song Artist="ELP">From The Beginning</Song>
+
+	<Song Artist="Spencer Davis Group">Gimme Some Lovin'</Song>
+
+	<Song Artist="Doors">Love Her Madly</Song>
+
+	<Song Artist="Rolling Stones">Under My Thumb</Song>
+
+	<Song Artist="Led Zeppelin">Immigrant Song</Song>
+
+	<Song Artist="Yardbirds">Heart Full Of Soul</Song>
+
+	<Song Artist="Chicago">Saturday In The Park</Song>
+
+	<Song Artist="Pink Floyd">Time</Song>
+
+	<Song Artist="Beatles">In My Life</Song>
+
+	<Song Artist="GFR">I'm Your Captain/Closer To Home</Song>
+
+	<Song Artist="Eagles">Take It Easy</Song>
+
+	<Song Artist="Crosby, Stills, Nash">Teach Your Children</Song>
+
+	<Song Artist="Cat Stevens">Morning Has Broken</Song>
+
+	<Song Artist="Who">Long Live Rock</Song>
+
+	<Song Artist="Dire Straits">Money For Nothing</Song>
+
+	<Song Artist="Fleetwood Mac">Tusk</Song>
+
+	<Song Artist="Ted Nugent">Cat Scratch Fever</Song>
+
+	<Song Artist="Badfinger">Day After Day</Song>
+
+	<Song Artist="Steve Winwood">Higher Love</Song>
+
+	<Song Artist="Bruce Springsteen">Born In The U.S.A.</Song>
+
+	<Song Artist="Kansas">Dust In The Wind</Song>
+
+	<Song Artist="Elton John">Rocket Man</Song>
+
+	<Song Artist="Guess Who">No Time</Song>
+
+	<Song Artist="Steve Miller">Fly Like An Eagle</Song>
+
+	<Song Artist="Billy Joel">Piano Man</Song>
+
+	<Song Artist="Grand Funk Railroad">Some Kind Of Wonderful</Song>
+
+	<Song Artist="Rolling Stones">You Can't Always Get What You Want</Song>
+
+	<Song Artist="Jethro Tull">Locomotive Breath</Song>
+
+	<Song Artist="Van Halen">Jump</Song>
+
+	<Song Artist="Cream">Strange Brew</Song>
+
+	<Song Artist="Janis Joplin">Piece Of My Heart</Song>
+
+	<Song Artist="Doors">Love Me Two Times</Song>
+
+	<Song Artist="Who">Bargain</Song>
+
+	<Song Artist="Moody Blues">Your Wildest Dreams</Song>
+
+	<Song Artist="Cars">Just What I Needed</Song>
+
+	<Song Artist="Jackson Browne">Running On Empty</Song>
+
+	<Song Artist="Neil Young">Cinnamon Girl</Song>
+
+	<Song Artist="Doobie Brothers">Listen To The Music</Song>
+
+	<Song Artist="Led Zeppelin">Heartbreaker/Livin' Lovin' Maid</Song>
+
+	<Song Artist="AC/DC">T.N.T.</Song>
+
+	<Song Artist="Queen">Keep Yourself Alive</Song>
+
+	<Song Artist="CCR">Lodi</Song>
+
+	<Song Artist="Bob Dylan">Tangled Up In Blue</Song>
+
+	<Song Artist="The Firm">Radioactive</Song>
+
+	<Song Artist="Beatles">Eight Days A Week</Song>
+
+	<Song Artist="ELO">Evil Woman</Song>
+
+	<Song Artist="Boston">Rock And Roll Band</Song>
+
+	<Song Artist="Led Zeppelin">Ramble On</Song>
+
+	<Song Artist="Kinks">All Day And All Of The Night</Song>
+
+	<Song Artist="Peter Frampton">Show Me The Way</Song>
+
+	<Song Artist="Doobie Brothers">Long Train Running</Song>
+
+	<Song Artist="Beatles">Ticket To Ride</Song>
+
+	<Song Artist="Beach Boys">Good Vibrations</Song>
+
+	<Song Artist="Lynryd Skynyrd">Gimme Three Steps</Song>
+
+	<Song Artist="Tom Petty">Breakdown</Song>
+
+	<Song Artist="ZZ Top">Tush</Song>
+
+	<Song Artist="Heart">Crazy On You</Song>
+
+	<Song Artist="George Harrison">I Got My Mind Set On You</Song>
+
+	<Song Artist="Rolling Stones">Angie</Song>
+
+	<Song Artist="Pink Floyd">Us And Them</Song>
+
+	<Song Artist="Eric Clapton">After Midnight</Song>
+
+	<Song Artist="Kiss">Rock 'N Roll All Night</Song>
+
+	<Song Artist="Guess Who">These Eyes</Song>
+
+	<Song Artist="AC/DC">You Shook Me All Night Long</Song>
+
+	<Song Artist="Beatles">Get Back</Song>
+
+	<Song Artist="Kinks">A Well Respected Man</Song>
+
+	<Song Artist="Who">I Can't Explain</Song>
+
+	<Song Artist="Beatles">Golden Slumbers Medley</Song>
+
+	<Song Artist="Chicago">Colour My World</Song>
+
+	<Song Artist="Byrds">Mr. Tambourine Man</Song>
+
+	<Song Artist="Bruce Springsteen">Tunnel Of Love</Song>
+
+	<Song Artist="Animals">We Gotta Get Out Of This Place</Song>
+
+	<Song Artist="Steely Dan">Do It Again</Song>
+
+	<Song Artist="Elton John">Honky Cat</Song>
+
+	<Song Artist="Fleetwood Mac">The Chain</Song>
+
+	<Song Artist="Cheap Trick">Surrender</Song>
+
+	<Song Artist="CCR">Bad Moon Rising</Song>
+
+	<Song Artist="Ted Nugent">Stranglehold</Song>
+
+	<Song Artist="Who">5:15</Song>
+
+	<Song Artist="Beatles">Sun King Medley</Song>
+
+	<Song Artist="Blue Oyster Cult">Godzilla</Song>
+
+	<Song Artist="Moody Blues">Question</Song>
+
+	<Song Artist="Blind Faith">Can't Find My Way Home</Song>
+
+	<Song Artist="Rolling Stones">Street Fighting Man</Song>
+
+	<Song Artist="Eric Clapton">Lay Down Sally</Song>
+
+	<Song Artist="Alice Cooper">No More Mr. Nice Guy</Song>
+
+	<Song Artist="David Bowie">Space Oddity</Song>
+
+	<Song Artist="Buffalo Springfield">For What It's Worth</Song>
+
+	<Song Artist="Doors">Riders On The Storm</Song>
+
+	<Song Artist="Allman Brothers">Whipping Post</Song>
+
+	<Song Artist="Band, The">The Weight</Song>
+
+	<Song Artist="Beatles">Twist And Shout</Song>
+
+	<Song Artist="Strawberry Alarm Clock">Incense/Peppermints</Song>
+
+	<Song Artist="Rascals">People Got To Be Free</Song>
+
+	<Song Artist="Steely Dan">Reeling In The Years</Song>
+
+	<Song Artist="Seals and Crofts">Summer Breeze</Song>
+
+	<Song Artist="Bob Dylan">Shelter From The Storm</Song>
+
+	<Song Artist="CCR">Heard It Through The Grapevine</Song>
+
+	<Song Artist="Led Zeppelin">Trampled Under Foot</Song>
+
+	<Song Artist="Troggs">Wild Thing</Song>
+
+	<Song Artist="ELO">Turn To Stone</Song>
+
+	<Song Artist="Mountain">Mississippi Queen</Song>
+
+	<Song Artist="Cat Stevens">Peace Train</Song>
+
+	<Song Artist="Country Joe &amp; the Fish">Fixin' To Die Rag</Song>
+
+	<Song Artist="Bad Company">Feel Like Makin' Love</Song>
+
+	<Song Artist="Heart">Magic Man</Song>
+
+	<Song Artist="Beatles">Here Comes The Sun</Song>
+
+	<Song Artist="Yes">Long Distance Runaround</Song>
+
+	<Song Artist="Elton John">Your Song</Song>
+
+	<Song Artist="Fleetwood Mac">Say You Love Me</Song>
+
+	<Song Artist="Doors">People Are Strange</Song>
+
+	<Song Artist="Dire Straits">Sultans Of Swing</Song>
+
+	<Song Artist="Bruce Springsteen">Hungry Heart</Song>
+
+	<Song Artist="Beatles">Strawberry Fields</Song>
+
+	<Song Artist="Steve Miller">Jet Airliner</Song>
+
+	<Song Artist="David Bowie">Young Americans</Song>
+
+	<Song Artist="George Harrison">All Those Years Ago</Song>
+
+	<Song Artist="Who">Eminence Front</Song>
+
+	<Song Artist="CCR">Have You Ever Seen The Rain?</Song>
+
+	<Song Artist="Beatles">She Loves You</Song>
+
+	<Song Artist="Eric Clapton">Tears In Heaven</Song>
+
+	<Song Artist="Eagles">Already Gone</Song>
+
+	<Song Artist="Byrds">Eight Miles High</Song>
+
+	<Song Artist="Doobie Brothers">Black Water</Song>
+
+	<Song Artist="Todd Rundgren">I Saw The Light</Song>
+
+	<Song Artist="Badfinger">Come And Get It</Song>
+
+	<Song Artist="Rascals">Good Lovin'</Song>
+
+	<Song Artist="Moody Blues">Tuesday Afternoon</Song>
+
+	<Song Artist="Rolling Stones">Heartbreaker</Song>
+
+	<Song Artist="Steppenwolf">Magic Carpet Ride</Song>
+
+	<Song Artist="Led Zeppelin">Over The Hills And Far Away</Song>
+
+	<Song Artist="Lynyrd Skynyrd">Sweet Home Alabama</Song>
+
+	<Song Artist="Chicago">25 Or 6 To 4</Song>
+
+	<Song Artist="Steely Dan">Rikki Don't Lose That Number</Song>
+
+	<Song Artist="Guess Who">Laughing</Song>
+
+	<Song Artist="Rolling Stones">Paint It Black</Song>
+
+	<Song Artist="Who">I Can See For Miles</Song>
+
+	<Song Artist="Beatles">I Wanna Hold Your Hand</Song>
+
+	<Song Artist="Alice Cooper">Eighteen</Song>
+
+	<Song Artist="Byrds">So You Wanna Be A Rock 'N Roll Star</Song>
+
+	<Song Artist="Nazareth">Love Hurts</Song>
+
+	<Song Artist="Foghat">Fool For The City</Song>
+
+	<Song Artist="Bob Dylan">Blowin' In The Wind</Song>
+
+	<Song Artist="Styx">Renegade</Song>
+
+	<Song Artist="Rush">New World Man</Song>
+
+	<Song Artist="Who">The Kids Are Alright</Song>
+
+	<Song Artist="Kinks">Tired Of Waiting For You</Song>
+
+	<Song Artist="Beatles">Paperback Writer</Song>
+
+	<Song Artist="CCR">Green River</Song>
+
+	<Song Artist="Bad Company">Can't Get Enough</Song>
+
+	<Song Artist="ELO">Fire On High</Song>
+
+	<Song Artist="The Band">Up On Cripple Creek</Song>
+
+	<Song Artist="Deep Purple">Hush</Song>
+
+	<Song Artist="James Gang">Walk Away</Song>
+
+	<Song Artist="Argent">Hold Your Head Up</Song>
+
+	<Song Artist="Yes">Owner Of A Lonely Heart</Song>
+
+	<Song Artist="Elton John">Levon</Song>
+
+	<Song Artist="Led Zeppelin">Misty Mountain Hop</Song>
+
+	<Song Artist="Crosby, Stills, Nash">Long Time Gone</Song>
+
+	<Song Artist="Paul Simon">Kodachrome</Song>
+
+	<Song Artist="Bob Seger">Against The Wind</Song>
+
+	<Song Artist="Rolling Stones">Play With Fire</Song>
+
+	<Song Artist="Beatles">Penny Lane</Song>
+
+	<Song Artist="Supertramp">Give A Little Bit</Song>
+
+	<Song Artist="Steely Dan">FM (No Static At All)</Song>
+
+	<Song Artist="Bruce Springsteen">Brilliant Disguise</Song>
+
+	<Song Artist="Allman Brothers">Midnight Rider</Song>
+
+	<Song Artist="Derek &amp; Dominoes">Bell Bottom Blues</Song>
+
+	<Song Artist="Pink Floyd">Young Lust</Song>
+
+	<Song Artist="Moody Blues">Ride My See-Saw</Song>
+
+	<Song Artist="Steve Miller Band">Take The Money And Run</Song>
+
+	<Song Artist="Uriah Heep">Easy Livin'</Song>
+
+	<Song Artist="Who">My Wife</Song>
+
+	<Song Artist="Kinks">Destroyer</Song>
+
+	<Song Artist="Beatles">We Can Work It Out</Song>
+
+	<Song Artist="John Fogerty">Centerfield</Song>
+
+	<Song Artist="Elton John">Tiny Dancer</Song>
+
+	<Song Artist="Zombies">She's Not There</Song>
+
+	<Song Artist="Boston">Foreplay/Long Time</Song>
+
+	<Song Artist="BTO">Takin' Care Of Business</Song>
+
+	<Song Artist="Cheap Trick">I Want You To Want Me</Song>
+
+	<Song Artist="George Harrison">My Sweet Lord</Song>
+
+	<Song Artist="Badfinger">No Matter What</Song>
+
+	<Song Artist="Animals">Don't Let Me Be Misunderstood</Song>
+
+	<Song Artist="Led Zeppelin">Fool In The Rain</Song>
+
+	<Song Artist="Jethro Tull">Thick As A Brick</Song>
+
+	<Song Artist="Rolling Stones">Get Off My Cloud</Song>
+
+	<Song Artist="CCR">Proud Mary</Song>
+
+	<Song Artist="Chicago">Beginnings</Song>
+
+	<Song Artist="Bruce Springsteen">Going Down</Song>
+
+	<Song Artist="Who">Magic Bus</Song>
+
+	<Song Artist="America">Sister Golden Hair</Song>
+
+	<Song Artist="Guess Who">Share the Land</Song>
+
+	<Song Artist="Neil Young">Heart Of Gold</Song>
+
+	<Song Artist="David Bowie">Fame</Song>
+
+	<Song Artist="Beatles">Hard Day's Night</Song>
+
+	<Song Artist="Hollies">Long Cool Woman</Song>
+
+	<Song Artist="Heart">Barracuda</Song>
+
+	<Song Artist="ELO">Livin' Thing</Song>
+
+	<Song Artist="Peter Gabriel">Solsbury Hill</Song>
+
+	<Song Artist="Styx">Blue Collar Man</Song>
+
+	<Song Artist="Pink Floyd">Shine On You Crazy Diamond</Song>
+
+	<Song Artist="ZZ Top">Sharp Dressed Man</Song>
+
+	<Song Artist="George Thorogood">Bad To The Bone</Song>
+
+	<Song Artist="U2">New Year's Day</Song>
+
+	<Song Artist="Procol Harum">Conquistador</Song>
+
+	<Song Artist="Elton John">Funeral/Love Lies Bleeding</Song>
+
+	<Song Artist="Todd Rundgren">Hello It's Me</Song>
+
+	<Song Artist="Steely Dan">Josie</Song>
+
+	<Song Artist="Cat Stevens">Wild World</Song>
+
+	<Song Artist="T. Rex">Band a Gong (Get It On)</Song>
+
+	<Song Artist="Who">Going Mobile</Song>
+
+	<Song Artist="Genesis">We Can't Dance</Song>
+
+	<Song Artist="The Boxtops">The Letter</Song>
+
+	<Song Artist="Paul McCartney">Another Day</Song>
+
+	<Song Artist="Moody Blues">Story In Your Eyes</Song>
+
+	<Song Artist="Golden Earring">Radar Love</Song>
+
+	<Song Artist="Rolling Stones">Start Me Up</Song>
+
+	<Song Artist="James Gang">Funk #49</Song>
+
+	<Song Artist="Alice Cooper">School's Out</Song>
+
+	<Song Artist="Tom Petty">American Girl</Song>
+
+	<Song Artist="Jimi Hendrix">The Wind Cries Mary</Song>
+
+	<Song Artist="Nazareth">Hair of the Dog</Song>
+
+	<Song Artist="ZZ Top">La Grange</Song>
+
+	<Song Artist="Santana">Oye Como Va</Song>
+
+	<Song Artist="Bad Company">Movin' On</Song>
+
+	<Song Artist="Van Halen">Runnin' With The Devil</Song>
+
+	<Song Artist="Canned Heat">Goin' Up The Country</Song>
+
+	<Song Artist="Steely Dan">Dirty Work</Song>
+
+	<Song Artist="Rush">Tom Sawyer</Song>
+
+	<Song Artist="Steve Winwood">Arc Of A Diver</Song>
+
+	<Song Artist="Yes">Wonderous Stories</Song>
+
+	<Song Artist="Kinks">Celluloid Heroes</Song>
+
+	<Song Artist="Paul McCartney">Jet</Song>
+
+	<Song Artist="Edgar Winter">Frankenstein</Song>
+
+	<Song Artist="Bob Dylan">Positively 4th Street</Song>
+
+	<Song Artist="Rolling Stones">Tumbling Dice</Song>
+
+	<Song Artist="Grand Funk Railroad">Bad Time</Song>
+
+	<Song Artist="Badfinger">Baby Blue</Song>
+
+	<Song Artist="Who">You Better You Bet</Song>
+
+	<Song Artist="Queen">Fat Bottom Girls</Song>
+
+	<Song Artist="Beatles">Magical Mystery Tour</Song>
+
+	<Song Artist="Eric Clapton">I Shot The Sheriff</Song>
+
+	<Song Artist="Doors">Waiting For The Sun</Song>
+
+	<Song Artist="Chicago">Make Me Smile</Song>
+
+	<Song Artist="Guess Who">No Sugar Tonight</Song>
+
+	<Song Artist="Led Zeppelin">Good Times Bad Times</Song>
+
+	<Song Artist="Bruce Springsteen">Pink Cadillac</Song>
+
+	<Song Artist="Who">Substitute</Song>
+
+	<Song Artist="Peter Frampton">Do You Feel Like We Do?</Song>
+
+	<Song Artist="America">Horse With No Name</Song>
+
+	<Song Artist="Elton John">Madman Across The Water</Song>
+
+	<Song Artist="Neil Young">Rockin In The Free World</Song>
+
+	<Song Artist="Deep Purple">Highway Star</Song>
+
+	<Song Artist="Bad Company">Bad Company</Song>
+
+	<Song Artist="Tom Petty">Refugee</Song>
+
+	<Song Artist="Doors">20th Century Fox</Song>
+
+	<Song Artist="Cars">My Best Friend's Girl</Song>
+
+	<Song Artist="Grateful Dead">Friend of the Devil</Song>
+
+	<Song Artist="Cream">Badge</Song>
+
+	<Song Artist="Jethro Tull">Cross-Eyed Mary</Song>
+
+	<Song Artist="Animals">It's My Life</Song>
+
+	<Song Artist="ELO">Strange Magic</Song>
+
+	<Song Artist="Blue Oyster Cult">Burnin' For You</Song>
+
+	<Song Artist="Traffic">John Barleycorn Must Die</Song>
+
+	<Song Artist="Focus">Hocus Pocus</Song>
+
+	<Song Artist="Boston">Peace Of Mind</Song>
+
+	<Song Artist="Rick Derringer">Rock 'N Roll Hootchie Koo</Song>
+
+	<Song Artist="Thin Lizzy">The Boys Are Back In Town</Song>
+
+	<Song Artist="Rolling Stones">Mother's Little Helper</Song>
+
+	<Song Artist="Van Halen">Dance The Night Away</Song>
+
+	<Song Artist="Peter Gabriel">In Your Eyes</Song>
+
+	<Song Artist="U2">Sunday Bloody Sunday</Song>
+
+	<Song Artist="Beatles">Norwegian Wood</Song>
+
+	<Song Artist="Rod Stewart">You Wear It Well</Song>
+
+	<Song Artist="Bob Dylan">Just Like A Woman</Song>
+
+	<Song Artist="Stephen Stills">Love The One You're With</Song>
+
+	<Song Artist="Led Zeppelin">Dy'er Ma'ker</Song>
+
+	<Song Artist="Tom Petty">I Won't Back Down</Song>
+
+	<Song Artist="Van Morrison">Wild Night</Song>
+
+	<Song Artist="Rolling Stones">Beast Of Burden</Song>
+
+	<Song Artist="Mott The Hoople">All The Young Dudes</Song>
+
+	<Song Artist="Queen">Tie Your Mother Down</Song>
+
+	<Song Artist="Dire Straits">So Far Away</Song>
+
+	<Song Artist="Steve Miller">The Joker</Song>
+
+	<Song Artist="Beatles">Please Please Me</Song>
+
+	<Song Artist="Peter Frampton">Baby I Love Your Way</Song>
+
+	<Song Artist="Bruce Springsteen">Spirit In The Night</Song>
+
+	<Song Artist="Outlaws">Green Grass &amp; High Tides</Song>
+
+	<Song Artist="Allman Brothers">Melissa</Song>
+
+	<Song Artist="CCR">Up Around The Bend</Song>
+
+	<Song Artist="Norman Greenbaum">Spirit In The Sky</Song>
+
+	<Song Artist="Led Zeppelin">All Of My Love</Song>
+
+	<Song Artist="Crosby Stills Nash">Wooden Ships</Song>
+
+	<Song Artist="Beatles">Lucy In The Sky w/ Diamonds</Song>
+
+	<Song Artist="Jethro Tull">Living In The Past</Song>
+
+	<Song Artist="Deep Purple">Woman From Toyko</Song>
+
+	<Song Artist="Foreigner">Cold As Ice</Song>
+
+	<Song Artist="Pete Townshend">Rough Boys</Song>
+
+	<Song Artist="Bob Dylan">Knockin' On Heaven's Door</Song>
+
+	<Song Artist="Beatles">Ballad Of John And Yoko</Song>
+
+	<Song Artist="Eagles">Lyin' Eyes</Song>
+
+	<Song Artist="Foghat">Slow Ride</Song>
+
+	<Song Artist="Doors">The End</Song>
+
+	<Song Artist="Pink Floyd">Breathe</Song>
+
+	<Song Artist="Cheap Trick">Dream Police</Song>
+
+	<Song Artist="Eric Clapton">Layla ( Unplugged)</Song>
+
+	<Song Artist="ZZ Top">Gimme All Your Lovin'</Song>
+
+	<Song Artist="Bob Seger">Turn The Page</Song>
+
+	<Song Artist="Thunderclap Newman">Something In The Air</Song>
+
+	<Song Artist="Supertramp">Goodbye Stranger</Song>
+
+	<Song Artist="Moody Blues">The Voice</Song>
+
+	<Song Artist="Golden Earring">Twilight Zone</Song>
+
+	<Song Artist="John Fogerty">Old Man Down The Road</Song>
+
+	<Song Artist="Beatles">Glass Onion</Song>
+
+	<Song Artist="Jethro Tull">Bungle In The Jungle</Song>
+
+	<Song Artist="Grateful Dead">Sugar Magnolia</Song>
+
+	<Song Artist="Rolling Stones">Waiting On A Friend</Song>
+
+	<Song Artist="Dr. John">Right Place, Wrong Time</Song>
+
+	<Song Artist="Canned Heat">On The Road Again</Song>
+
+	<Song Artist="Eagles">One Of These Nights</Song>
+
+	<Song Artist="Santana">Black Magic Woman</Song>
+
+	<Song Artist="Chambers Brothers">Time Has Come Today</Song>
+
+	<Song Artist="Crosby, Stills Nash">Helplessly Hoping</Song>
+
+	<Song Artist="Neil Young">Southern Man</Song>
+
+	<Song Artist="Tom Petty">Free Fallin'</Song>
+
+	<Song Artist="Rolling Stones">Let It Bleed</Song>
+
+	<Song Artist="Peter Gabriel">Sledgehammer</Song>
+
+	<Song Artist="Sugarloaf">Green-Eyed Lady</Song>
+
+	<Song Artist="Hollies">Bus Stop</Song>
+
+	<Song Artist="Eric Clapton">Forever Man</Song>
+
+	<Song Artist="Warren Zevon">Werewolves of London</Song>
+
+	<Song Artist="Creedence Clearwater Revival">Suzie Q</Song>
+
+	<Song Artist="Sly/Family Stone">Dance To The Music</Song>
+
+	<Song Artist="Ozzy Osbourne">Crazy Train</Song>
+
+	<Song Artist="Amboy Dukes">Journey To The Center Of The Mind</Song>
+
+	<Song Artist="David Bowie">Rebel Rebel</Song>
+
+	<Song Artist="Lovin' Spoonful">Summer In The City</Song>
+
+	<Song Artist="Robert Palmer">Addicted To Love</Song>
+
+	<Song Artist="Santana">Evil Ways</Song>
+
+	<Song Artist="Bob Seger">Old Time Rock And Roll</Song>
+
+	<Song Artist="Beatles">I Should Have Known Better</Song>
+
+	<Song Artist="Humble Pie">Thirty Days In The Hole</Song>
+
+	<Song Artist="Kingsmen">Louie Louie</Song>
+
+	<Song Artist="Ten Years After">I'd Love To Change The World</Song>
+
+	<Song Artist="Joe Cocker">The Letter</Song>
+
+	<Song Artist="Bob Dylan">Rainy Day Women #12 &amp; 35</Song>
+
+	<Song Artist="George Thorogood">Move It On Over</Song>
+
+</Songs>
+
+
