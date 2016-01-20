@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Beatles>
+	<RealBeatles>
+		<Real>
+			<FirstName>Paul</FirstName>
+			<LastName>McCartney</LastName>
+		</Real>
+		<Real>
+			<FirstName>John</FirstName>
+			<LastName>Lennon</LastName>
+		</Real>
+		<Real>
+			<FirstName>George</FirstName>
+			<LastName>Harrison</LastName>
+		</Real>
+		<Real>
+			<FirstName>Ringo</FirstName>
+			<LastName>Starr</LastName>
+		</Real>
+	</RealBeatles>
+	<FakeBeatles>
+		<Fake>
+			<FirstName>Nat</FirstName>
+			<LastName>Dunn</LastName>
+		</Fake>
+	</FakeBeatles>
+</Beatles>
+

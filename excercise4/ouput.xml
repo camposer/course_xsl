@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Names>
+   <Name>
+      <Title>Mr.</Title>
+      <FName>Joshua</FName>
+      <LName>Lockwood</LName>
+   </Name>
+   <Name>
+      <FName>Bill </FName>
+      <LName>Smith</LName>
+   </Name>
+   <Name>
+      <FName>Bill </FName>
+      <LName>Smith</LName>
+   </Name>
+</Names>
+<Matches>
+   <NoMatch>SendDate: November 29, 2011</NoMatch>
+   <NoMatch>FirstName: Joshua</NoMatch>
+   <NoMatch>LastName: Lockwood</NoMatch>
+   <Match Text="L&amp;L">Company: Lockwood &amp; Lockwood</Match>
+   <NoMatch>Street: 291 Broadway Ave.</NoMatch>
+   <NoMatch>City: New York</NoMatch>
+   <NoMatch>State: NY</NoMatch>
+   <NoMatch>Zip: 10007</NoMatch>
+   <NoMatch>Country: United States</NoMatch>
+   <NoMatch>Heading: Along with this letter, I have enclosed the following items:</NoMatch>
+   <Match Text="W">ListItem: two original, execution copies of the Webucator Master Services Agreement</Match>
+   <Match Text="W">ListItem: two original, execution copies of the Webucator Premier Support for Developers Services Description between Lockwood &amp; Lockwood and Webucator, Inc.</Match>
+   <NoMatch>Para: Please sign and return all four original, execution copies to me at your earliest convenience.  Upon receipt of the executed copies, we will immediately return a fully executed, original copy of both agreements to you.</NoMatch>
+   <NoMatch>Para: Please send all four original, execution copies to my attention as follows:
+
+			</NoMatch>
+   <NoMatch>FirstName: Bill </NoMatch>
+   <NoMatch>LastName: Smith</NoMatch>
+   <Match Text="W">Company: Webucator, Inc.</Match>
+   <NoMatch>Street: 4933 Jamesville Rd.</NoMatch>
+   <NoMatch>City: Jamesville</NoMatch>
+   <NoMatch>State: NY</NoMatch>
+   <NoMatch>Zip: 13078</NoMatch>
+   <NoMatch>Country: USA</NoMatch>
+   <NoMatch>Para: If you have any questions, feel free to call me at  or e-mail me at .</NoMatch>
+   <NoMatch>Phone: 800-555-1000 x123</NoMatch>
+   <NoMatch>Email: bsmith@webucator.com</NoMatch>
+   <NoMatch>FirstName: Bill </NoMatch>
+   <NoMatch>LastName: Smith</NoMatch>
+   <NoMatch>JobTitle: VP, Operations</NoMatch>
+</Matches>
