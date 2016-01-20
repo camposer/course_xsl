@@ -1,4 +1,4 @@
-# Excercise 4 (In the book 14 Conditionals)
+# Exercise 4 (In the book 14 Conditionals)
 
 In this exercise, you will practice using xsl:if and xsl:choose.
 

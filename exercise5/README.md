@@ -1,4 +1,4 @@
-# Excercise 5
+# Exercise 5
 
 In this exercise, you will practice using xsl:apply-templates.
 

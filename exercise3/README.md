@@ -1,4 +1,4 @@
-# Excercise 3
+# Exercise 3
 
 In this exercise, you will practice using XPath functions.
 
