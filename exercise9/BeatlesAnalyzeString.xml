@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="BeatlesAnalyzeString.xsl" type="text/xsl"?>
+<beatles>
+	<beatle>
+		<name>Paul McCartney</name>
+		<dobDesc>Paul's dob is 6/18/42.</dobDesc>
+	</beatle>
+	<beatle>
+		<name>John Lennon</name>
+		<dobDesc>John Lennon was born on 10/9/40.</dobDesc>
+	</beatle>
+	<beatle>
+		<name>George Harrison</name>
+		<dobDesc>DOB: 2/25/1943</dobDesc>
+	</beatle>
+	<beatle>
+		<name>Ringo Starr</name>
+		<dobDesc>7/7/40</dobDesc>
+	</beatle>
+	<beatle real="no">
+		<name>Nat Dunn</name>
+		<dobDesc>not available</dobDesc>
+	</beatle>
+</beatles>
+
