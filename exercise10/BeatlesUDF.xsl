@@ -24,9 +24,20 @@
 	</html>
 </xsl:template>
 
-<xsl:function name="web:is-fake" as="xs:boolean">
+<xsl:function name="web:is-fake" as="xs:boolean?">
 	<xsl:param name="beatle" as="element(beatle)"/>
-	<xsl:sequence select="$beatle/@real='no'"/>
+	<!--xsl:sequence select="$beatle/@real='no'"/-->
+	<!--xsl:choose>
+		<xsl:when test="$beatle[@real]">
+			<xsl:value-of select="'true'"/>
+		</xsl:when>
+		<xsl:otherwise>
+			<xsl:value-of select="'false'"/>
+		</xsl:otherwise>
+	</xsl:choose-->
+	<xsl:if test="$beatle[@real]">
+		<xsl:value-of select="'true'"/>
+	</xsl:if>
 </xsl:function>
 
 <xsl:function name="web:create-link" as="element(a)">
