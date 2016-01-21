@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><beatles>
+	<beatle>
+		<name><firstname>Paul</firstname><lastname>McCartney</lastname></name>
+		<dob>19-0-0</dob>
+	</beatle>
+	<beatle>
+		<name><firstname>John</firstname><lastname>Lennon</lastname></name>
+		<dob>19-0-0</dob>
+	</beatle>
+	<beatle>
+		<name><firstname>George</firstname><lastname>Harrison</lastname></name>
+		<dob>19-0-0</dob>
+	</beatle>
+	<beatle>
+		<name><firstname>Ringo</firstname><lastname>Starr</lastname></name>
+		<dob>19-0-0</dob>
+	</beatle>
+	<beatle>
+		<name><firstname>Nat</firstname><lastname>Dunn</lastname></name>
+		<dob/>
+	</beatle>
+</beatles>

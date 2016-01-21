@@ -15,12 +15,16 @@
 	<xsl:template match="name">
 		<name>
 			<!-- split the name into first and last names -->
-			<xsl:analyze-string select="." regex="([A-Z][a-z]+)\s([A-Z][a-z]+)">
+			<xsl:variable name="name" select="tokenize(., ' ')"/>
+			<firstname><xsl:value-of select="$name[1]"/></firstname>
+			<lastname><xsl:value-of select="$name[2]"/></lastname>
+
+			<!--xsl:analyze-string select="." regex="([A-Z][a-z]+)\s([A-Z][a-z]+)">
 				<xsl:matching-substring>
 					<firstname><xsl:value-of select="regex-group(1)"/></firstname>
 					<lastname><xsl:value-of select="regex-group(2)"/></lastname>
 				</xsl:matching-substring>
-			</xsl:analyze-string>
+			</xsl:analyze-string-->
 		</name>
 	</xsl:template>
 	<xsl:template match="dobDesc">
