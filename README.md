@@ -40,3 +40,5 @@
 	- http://stackoverflow.com/questions/18586921/how-to-launch-html-using-chrome-at-allow-file-access-from-files-mode/18587027#18587027
 - SAXON: The XSLT and XQuery Processor
 	- http://saxon.sourceforge.net/
+- Apache FOP (Formatting Objects Processor) 
+	- https://xmlgraphics.apache.org/fop/
