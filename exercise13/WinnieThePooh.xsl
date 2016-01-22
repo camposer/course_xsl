@@ -29,6 +29,13 @@
 			<fo:flow flow-name="xsl-region-body">
 				<fo:block>
 					<xsl:value-of select="Title"/>
+<xsl:text>&#10;</xsl:text>
+<xsl:text>&#10;</xsl:text>
+<xsl:text>&#10;</xsl:text>
+<xsl:text>&#10;</xsl:text>
+<xsl:text>&#10;</xsl:text>
+<xsl:text>&#10;</xsl:text>
+<xsl:text>&#10;</xsl:text>
 				</fo:block>
 				<fo:block>
 					<xsl:value-of select="SubTitle"/>
