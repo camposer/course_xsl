@@ -7,8 +7,7 @@
 
 		<fo:layout-master-set>
 			<fo:simple-page-master master-name="hello"
-						  page-height="11in"  page-width="8.5in" margin-top="1in" 
-						  margin-bottom="1in" margin-left="1in" margin-right="1in">
+						  >
 				<fo:region-body margin-top="1in" margin-bottom=".5in"/>
 			</fo:simple-page-master>
 		</fo:layout-master-set>
