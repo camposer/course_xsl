@@ -42,3 +42,12 @@
 	- http://saxon.sourceforge.net/
 - Apache FOP (Formatting Objects Processor) 
 	- https://xmlgraphics.apache.org/fop/
+
+## Reporting Tools from Business Intelligence suites (Open Source)
+
+- iReports Designer from Jasper Reports
+	- http://community.jaspersoft.com/project/ireport-designer
+- Pentaho Data Report 
+	- http://community.pentaho.com/projects/reporting/
+- Eclipse BIRT (Business Intelligence Reporting Tool)
+	- http://www.eclipse.org/birt/
