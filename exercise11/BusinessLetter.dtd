@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Address (Company?, Street, City, State, Zip, Country)>
+<!ELEMENT Body (List, Para+)>
+<!ELEMENT BusinessLetter (Head, Body, Foot)>
+<!ELEMENT City (#PCDATA)>
+<!ELEMENT Closing (Name, JobTitle)>
+<!ELEMENT Company (#PCDATA)>
+<!ELEMENT Country (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT Foot (Closing)>
+<!ELEMENT Head (SendDate, Recipient)>
+<!ELEMENT Heading (#PCDATA)>
+<!ELEMENT JobTitle (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT List (Heading, ListItem+)>
+<!ELEMENT ListItem (#PCDATA)>
+<!ELEMENT Name (FirstName, LastName)>
+<!ATTLIST Name
+	Title CDATA #IMPLIED
+>
+<!ELEMENT Para (#PCDATA | Person | Email | Phone)*>
+<!ELEMENT Person (Name, Address)>
+<!ELEMENT Phone (#PCDATA)>
+<!ELEMENT Recipient (Name, Company, Address)>
+<!ELEMENT SendDate (#PCDATA)>
+<!ELEMENT State (#PCDATA)>
+<!ELEMENT Street (#PCDATA)>
+<!ELEMENT Zip (#PCDATA)>
+

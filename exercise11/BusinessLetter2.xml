@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Letter2Letter.xsl"?>
+<Letter>
+	<Date>November 29, 2011</Date>
+	<To>
+		<Name>
+			<Title>Mr.</Title>
+			<FName>Joshua</FName>
+			<LName>Lockwood</LName>
+		</Name>
+		<Company>Lockwood &amp; Lockwood</Company>
+		<Address>
+			<Street>291 Broadway Ave.</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10007</Zip>
+			<Country>United States</Country>
+		</Address>
+	</To>
+	<List>
+		<ListHead>
+			Along with this letter, I have enclosed the following items:
+		</ListHead>
+		<LI>two original, execution copies of the Webucator Master 
+			Services Agreement</LI>
+		<LI>two original, execution copies of the Webucator Premier 
+			Support for Developers Services Description between Lockwood 
+				&amp; Lockwood and Webucator, Inc.</LI>
+	</List>
+	<P>Please sign and return all four original, execution copies to me at 
+		your earliest convenience.  Upon receipt of the executed copies, we 
+		will immediately return a fully executed, original copy of both 
+		agreements to you.</P>
+	<P>Please send all four original, execution copies to my attention as 
+		follows:
+			<Person>
+			<Name>
+				<FName>Bill </FName>
+				<LName>Smith</LName>
+			</Name>
+			<Address>
+				<Company>Webucator, Inc.</Company>
+				<Street>4933 Jamesville Rd.</Street>
+				<City>Jamesville</City>
+				<State>NY</State>
+				<Zip>13078</Zip>
+				<Country>USA</Country>
+			</Address>
+		</Person>
+	</P>
+	<P>If you have any questions, feel free to call me at 
+		<Phone>800-555-1000 x123</Phone> or e-mail me at 
+		<Email>bsmith@webucator.com</Email>.</P>
+	<End>
+		<Name>
+			<FName>Bill </FName>
+			<LName>Smith</LName>
+		</Name>
+		<Title>VP, Operations</Title>
+	</End>
+</Letter>
+
